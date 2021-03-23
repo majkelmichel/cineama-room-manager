@@ -2,4 +2,4 @@
 
 This is my first project in Kotlin.
 
-Done with [JetBrains Academy](https://hyperskill.org)
+Done based on [JetBrains Academy](https://hyperskill.org) project
